@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/lumen":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/lumen","hostpath":"/home/tjwallis/sites/tidbit/lumen","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/tjwallis/sites/tidbit/lumen","disabled":false,"__vagrantfile":true}}}
